@@ -1,0 +1,14 @@
+ENONCE
+
+Écrivez un texte et envoyez-le à l’API Watson Text-to-Speech, qui devrait vous renvoyer un fichier audio avec le même texte lu par la voix de votre choix. Vous ferez cela via la commande “curl”, que nous avons vue lors du chapitre précédent.
+
+Il vous faudra créer un compte Bluemix si ce n’est pas déjà fait. Après quoi vous pourrez sélectionner le service “Text to Speech” et utiliser les identifiants qui vous seront fournis pour effectuer votre requête API.
+
+Voici quelques éléments à prendre en compte pour créer votre requête à l’API Watson :
+
+Quel texte devra être lu ?
+Dans quelle langue est ce texte ?
+Dans quel format (parmi ceux proposés par Bluemix) souhaitez-vous recevoir votre fichier ?
+N’hésitez pas à consulter la documentation de Watson ; celle-ci vous aidera à comprendre comment spécifier les éléments nécessaire à votre requête. https://www.ibm.com/watson/developercloud/text-to-speech/api/v1/curl.html?curl
+
+Tous ces critères doivent être renseignés dans votre requête curl en ligne de commande. Souvenez-vous de la commande utilisée en partie 1, chapitre 4 de ce cours : inspirez-vous en !
