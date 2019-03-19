@@ -1,4 +1,4 @@
-ENONCE
+ENONCE DE L'ACTIVITE OPENCLASSROOM
 
 Écrivez un texte et envoyez-le à l’API Watson Text-to-Speech, qui devrait vous renvoyer un fichier audio avec le même texte lu par la voix de votre choix. Vous ferez cela via la commande “curl”, que nous avons vue lors du chapitre précédent.
 
